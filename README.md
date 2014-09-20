@@ -9,4 +9,4 @@ SOBA-deliver
 
 
 ## Demo
-![](http://deeeet.com/writing/images/post/cli-init.gif)
+![](http://i.imgur.com/4cJRlcW.gif)

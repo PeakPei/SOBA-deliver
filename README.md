@@ -6,3 +6,7 @@ SOBA-deliver
 
 
 [Imgur](http://i.imgur.com/PW7889x.gif)
+
+
+## Demo
+![](http://deeeet.com/writing/images/post/cli-init.gif)
